@@ -21,3 +21,4 @@ class ItemModel {
 const phasesSound = "sounds/phrases";
 const familySound = "sounds/family_members";
 const colorSound = "sounds/colors";
+const numberSound = "sounds/number";
